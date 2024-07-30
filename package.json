@@ -1,0 +1,11 @@
+{
+    "name": "ai-grading-extension",
+    "version": "1.0.0",
+    "description": "AI grading extension for students",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "author": "Dean Parsons",
+    "license": "UNLICENSED"
+}
